@@ -5,12 +5,12 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_olives.mk
+    $(LOCAL_DIR)/Octavi_olives.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_olives-user \
-    lineage_olives-userdebug \
-    lineage_olives-eng
+    Octavi_olives-user \
+    Octavi_olives-userdebug \
+    Octavi_olives-eng
 
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/cherish_olives.mk
